@@ -3,7 +3,7 @@ Set [Content-Disposition](https://developer.mozilla.org/en-US/docs/Web/HTTP/Head
 
 These are some basic examples which can be manipulated accroding to the requirements.
 
-Following filter is tested with the WP Offload S3 v1.6.2.
+Following filter is tested with the [WP Offload S3](https://wordpress.org/plugins/amazon-s3-and-cloudfront/)  `v1.6.2`.
 
 ## Examples 
 
