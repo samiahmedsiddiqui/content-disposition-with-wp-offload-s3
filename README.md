@@ -3,4 +3,9 @@ Set [Content-Disposition](https://developer.mozilla.org/en-US/docs/Web/HTTP/Head
 
 These are some basic examples which can be manipulated accroding to the requirements.
 
+[Set Content-Disposition on all files](example-1.php)
+This example sets the `Content-Disposition` header on all the uploaded files.
+
+[Set Content-Disposition from the Specfic Page](example-2.php)
+This example checking from where the file is uploading. If it is uploading from some specific page then set `Content-Disposition` header for that file.
 
